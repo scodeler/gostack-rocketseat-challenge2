@@ -27,4 +27,6 @@ on your terminal
 
 ---
 
+<img src="https://user-images.githubusercontent.com/11669095/84968377-b396db00-b0ec-11ea-9130-ed701b1ac444.png" width="450" />
+
 🚀
