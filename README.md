@@ -1,6 +1,6 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
-# GoStack Rocketseat Challenge 1
+# GoStack Rocketseat Challenge 2
 This project is the 2nd challenge of GoStack Bootcamp by Rocketseat
 
 Our goal was to create a Front-end application to add or remove repositories from the Back-end developed on last challenge
